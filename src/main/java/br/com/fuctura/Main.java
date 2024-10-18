@@ -90,7 +90,7 @@ public class Main {
 			else if (opc == 2) {
 				
 				System.out.println("-----------");
-				System.out.println("  INSERIR  ");
+				System.out.println("  LISTAR  ");
 				System.out.println("-----------");
 				
 				System.out.println("Digite o ID do livro: ");
